@@ -213,8 +213,6 @@ $(document).ready(function(){
 	function Mesh () {
 		this.pointArray = [];
 		this.color = [0,0,0];
-		this.bspFrontMesh = null;
-		this.bspBackMesh = null;
 		this.normal = 0;
 	}
 
